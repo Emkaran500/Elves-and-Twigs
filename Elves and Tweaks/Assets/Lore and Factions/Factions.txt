@@ -1,0 +1,64 @@
+Elven Factions
+
+There are four factions with differing world views and ideas on how to reclaim the tree and what to do with it once they reclaim it. Each clan sends its representative. The clans are:
+
+FLEETFOOT
+“We do not fly if we do not fly together.”
+The youngest of all the clans, they are known as cheerful and tender. Always looking to cooperate and work with others, they now seek to unite the clans, no matter what happens to the tree. There is no future unless those who are Tied to Fate share it.
+
+ FACTION REPRESENTATIVE: 
+-Tohn, the Wayward Watcher
+Ever since a young age, Tohn has been raised to communicate and work with others. Through the years, she has proven herself a formidable captain of the forest watch, now seeking to pave the way for future generations, she ventures into the forest to preserve the ways of the Fleetfoots.
+
+FACTION BONUS: At the start of your turn, you can give 15 Mana to any other Player to gain 1 Token
+
+------------------------------------------------
+
+OF THE HOOKED CEMETERY
+“All is. All will be.”
+The eldest of all the clans, the keepers of ways. They guard the tradition and the ceremony of the Rooted One, seeking to reclaim the tree and uphold the lives of all elves.
+
+FACTION REPRESENTATIVE:
+-Da’Karm, The Elder Eye
+Believing that the elders should lead by example, Da’Karm ventures into the forest to save his people the suffering, believing himself to be the one who shall save The One Who Upholds, gladly giving his life so that the forest may survive.
+
+FACTION BONUS: Whenever a Player rolls a 1, gain 2 Mana
+
+------------------------------------------------
+
+DAWNBORN
+“As dawn burns, so do we.”
+Fiery and expressive, they seek freedom above all else, always falling in trouble with the elders of the forest. They seek to destroy the tree and leave their old ways to rot – their future will not be bared with tradition.
+
+FACTION REPRESENTATIVE:
+-Tahlia, Inquisitor of the Dawn
+Believing naught in the olden ways that the elders propagate, Tahlia has gathered a war band hell-bent on freeing her people from the shackles of the forest. For her, the One Who Upholds is nothing more than a machine of cruelty, which feeds on innocent flesh so that all may cower before the decisions of one individual. There is no future in store for those who bow their heads so she marches to rid them of this affliction.
+
+FACTION BONUS: At the start of your turn, you can pay 5 Mana, to make a player of your choice lose a turn.
+
+------------------------------------------------
+
+OF BLACK MORNINGS AND TIRED DAWNS
+“Future, at all costs”
+Intelligent and forward-thinking, the clan of Black Mornings and Tired Dawns has formed their ideology around Dajin of the Wuthering Lands – he spent years in the lands of the humans and dwarves, bringing their knowledge with him. Ancient knowledge of fire and brimstone, of democracies and medicine, easing the way of life and rapidly developing technology. They now see the tree as an expandable resource, baring their way to the improvement of civilian rights and technology.
+
+FACTION REPRESENTATIVE:
+-Kama, the Scythe of Tomorrow
+The tree is no longer needed for the survival of the elves. All should be equal under the law, not a singular being. All resources: rivers, woods, and land should fall to the one who conquers them, bearing the responsibility to fairly share amongst the populace. Topple the lasting regime, but be careful in doing so: from the ashes, pick what suits you.
+
+FACTION BONUS: Whenever a player lands on a Merchant tile, they have to pay you 5 Mana, and if you land on a Merchant tile, every other player pays you 2 Mana
+
+------------------------------------------------
+
+WINNING LORE:
+FLEETFOOT WIN
+The forest is healing, and those Of Tied Faith return to their homes, scarred and afraid to forget, what had once bled their people. The name of the Fleefoot representative is etched into marble and his gaze, now part of The One Who Upholds, assures that such a tragedy shall not happen again, as long as everyone stays together.
+
+OF THE HOOK CEMETERY WIN
+Nature is healing, the old ways have been restored. Proud and faithful, those Of The Hook Cemetery gather to write down the horrid tale, warning their children and the children of their children to not venture from the established path. The past exists for a reason, for it is the best teacher.
+
+DAWNBORN WIN
+The tree burns and the Dawnborn watches with glee - they are unshackled, finally free from the torment of unmoving life and customs. The future is uncertain, but only in uncertainty can they find salvation. The road awaits…
+
+OF BLACK MORNINGS AND TIRED DAWNS WIN
+Dajin’s words have, indeed, led to salvation. As the tree falls, a new dawn arises one paved with scientific progress and upheld by stern law: those of Tied Faith are now free, governed only by themselves and the law they set. The skies darken with the flame of industry and the people grow cold and separate. Time marches onward. 

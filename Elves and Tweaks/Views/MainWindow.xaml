@@ -1,0 +1,74 @@
+﻿<Window x:Class="Elves_and_Tweaks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elves_and_Tweaks"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800" ResizeMode="NoResize">
+    <Border>
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                <GradientStop Color="DeepSkyBlue" Offset="0.1" />
+                <GradientStop Color="YellowGreen" Offset="0.6" />
+                <GradientStop Color="Green" Offset="0.75" />
+                <GradientStop Color="Sienna" Offset="1.0" />
+            </LinearGradientBrush>
+        </Border.Background>
+        <DockPanel LastChildFill="True">
+            <Grid DockPanel.Dock="Bottom" Background="DimGray">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Content="Throw Dice" Margin="10 5 10 5" Click="ThrowDiceClick"/>
+                <TextBox Grid.Column="1" Text="{Binding DiceRollString}" Background="Transparent" BorderThickness="0" VerticalContentAlignment="Center" FontSize="12" IsEnabled="False" Padding="0 0 0 1"/>
+                <Button Grid.Column="2" Content="Chance" Margin="10 5 10 5" Click="ChanceClick"/>
+                <TextBox Grid.Column="3" Text="{Binding ChanceRollString}" Background="Transparent" BorderThickness="0" VerticalContentAlignment="Center" FontSize="12" IsEnabled="False" Padding="0 0 0 1"/>
+                <Button Grid.Column="4" Content="Previous Turn" Margin="10 5 10 5" Click="PreviousTurnClick" />
+                <Button Grid.Column="5" Content="End Turn" Margin="10 5 10 5" Click="EndTurnClick"/>
+            </Grid>
+            <ScrollViewer VerticalScrollBarVisibility="Hidden">
+                <StackPanel x:Name="PlayersList" DockPanel.Dock="Left" Width="200" Background="LimeGreen">
+                    <Border BorderBrush="DarkGreen" BorderThickness="1">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                                <GradientStop Color="Lime" Offset="0.0" />
+                                <GradientStop Color="LimeGreen" Offset="0.5" />
+                                <GradientStop Color="GreenYellow" Offset="1.0" />
+                            </LinearGradientBrush>
+                        </Border.Background>
+                    </Border>
+                    <TextBox IsEnabled="False" Text="{Binding TurnString}" FontSize="16"/>
+                    <TextBox IsEnabled="False" Text="{Binding TimeString}" FontSize="16"/>
+                    <Button x:Name="AddPlayerButton" Content="Add Player" Height="50" FontSize="24" Click="AddPlayerClick"/>
+                </StackPanel>
+            </ScrollViewer>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <ScrollViewer VerticalScrollBarVisibility="Hidden">
+                    <StackPanel x:Name="DisplayingPanel" Orientation="Vertical">
+
+                    </StackPanel>
+                </ScrollViewer>
+                <StackPanel Grid.Column="1">
+                    <Button Content="Rules" Height="50" Click="RulesClick"/>
+                    <Button Content="Map Explanation" Height="50" Click="MapClick"/>
+                    <Button Content="Lore" Height="50" Click="LoreClick"/>
+                    <Button Content="Factions" Height="50" Click="FactionsClick"/>
+                    <Button Content="Events" Height="50" Click="EventsClick"/>
+                    <Button Content="Chance Cards" Height="50" Click="ChanceCardsClick"/>
+                    <Button Content="Credits" Height="50" Click="CreditsClick"/>
+                    <Button Content="Clear" Height="50" Click="ClearClick"/>
+                </StackPanel>
+            </Grid>
+        </DockPanel>
+    </Border>
+</Window>

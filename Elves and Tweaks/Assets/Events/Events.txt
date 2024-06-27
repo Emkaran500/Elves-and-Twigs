@@ -1,0 +1,242 @@
+THE THORN PRINCESS
+
+“A creature shambles from the woods, her beauty mesmerizing. She seems to be in pain, there are roses protruding from her mouth. Will you pull them out?”
+
+IF YES
+“The Princess nods and exhales, her worries elevated. The princess returns to the woods, never to be seen again.” - <Gain 5 Mana and 1 Token>
+
+IF NO
+“The Princess shrieks in pain and turns her face away from you. She is in pain and will be, for all eternity.” - <Gain 2 Mana>
+
+------------------------------------------------
+
+THE BURRIED MAN
+
+“Kill kong, ding-dong” a voice echoes from the woods, sending chills down your spine. A creature appears, an old man carrying a gravestone on his back, shriveling underneath its weight: “Kill kong, din-dong” he echoes.
+You feel like there is no sense in talking with the creature. Prepare to fight.
+
+DO YOU FIGHT?
+Some things are worth fighting for - you unsheathe your blade and smite the beast. Its blood runs cold, smearing your face and hands. - <Gain +2 MOD and Lose 1 Turn>
+
+FLEE
+You turn and never look back, escaping the maddening echoes of the dead. - <Move Forward 2 spaces>
+
+------------------------------------------------
+
+THE SINKING TOAD
+
+A toad jumps onto your path, croaking. Its eyes are blue and it seems to be crying. It nudges towards you, seemingly asking you to drink its tears.
+
+IF YES 
+As you drink its tears, the toad seems to be elevated. The tears are cold and you feel like crying yourself - it is sadness, is it the beautiful taste? You don’t know. It even kisses you on the cheek, granting its thanks. - <Gain +1 MOD and 1 Token>
+
+IF NO
+The toad croaks, sad, and jumps along its path - its tears glistening as it hops away. - <Gain 2 Mana>
+
+------------------------------------------------
+
+THE WAILING
+
+A congregation of black veils manifests from the mist. Voices, cold and distant, circle all around you: some evoke death and loss, others scream for salvation. Hands grab at you, pleading you join them in their mourning.
+Join the Congegrtion?
+
+IF YES
+You join the maddening wailing. The delirium takes hold, controlling your every thought. You wake to a cold sweat after a few hours. You’re unsure if it ended or even existed in the first place - <Gain 1x Rigged Die, 1x Mana Drain 15 and Lose 1 Turn (Look Items)>
+
+IF NO
+You run, the screams tormenting your every step. - <Move 4 steps Backwards>
+
+------------------------------------------------
+
+A FACE
+
+Atop an overturned stone rests a skinned remnant of a body: a face, its expression unchanging. It is, undoubtedly, recognizable and this sends shivers down your spine. It could have been a neighbor and an old friend. It doesn’t seem unfriendly, but the smell… Oh, you could never forget the smell.
+Turn your gaze?
+
+IF YES
+You turn, but you can feel it staring at your back, unflinching, unmoving. - <Move 3 steps Forward, Gain 3 Mana>
+
+IF NO
+The more that you stare, the more sick you become. The face repulses you and you turn to throw up. Next time you look, it's just a rock. - <Lose a turn, gain 5 Mana>
+
+------------------------------------------------
+
+TALISMAN OF REJUVENATION
+
+A bundle of paper talismans patiently waits for a traveler in need of salvation. Its aroma soothes you, the touch so warm and tender, reminds you of better days.
+Pray?
+
+IF YES
+You clasp your hands and feel sudden, pleasant warmth. You’ve always known it, the prayer comes from the heart. - <Gain 10 Mana and 1 Token>
+
+IF NO
+You leave the talismans, still feeling their warmth. - <Gain 1x Double Dice (One Time Item)>
+
+------------------------------------------------
+
+THE VULTURE
+
+Clatter and bobble, the smiling merchant emerges from the shrubbery. He smiles, offering you a myriad of shiny things. You don’t wish to know where he got them from.
+The player keeps this card. They can use this card at any point in time to access the Merchant Shop at the beginning of their turn
+Thunderbranch
+A single branch peers from the mud. It seems that lightning struck it and some of that power has, seemingly, been preserved inside the wood.
+Approach it?
+
+IF YES
+You feel the power surge through your hands. You feel like a god and, if not, that you could fight one. - <Gain 20 Mana, +3 MOD>
+
+IF NO
+The branch sways in the wind, still beckoning for your hands. - <Gain 5 Mana, 1x Rigged Die>
+
+------------------------------------------------
+
+TOWN OF LOVE
+
+“Love, love!” echoes from over the hilltop. The voices are cheery and joyful.
+Do you approach it?
+
+IF YES
+As you peer over the top, you see monsters of sewn flesh: bodies conjoined in a disgusting, sadistic fashion. It seems these operations were not received willingly. Repulsed, you run from the hilltop. - <Move 2 Steps Backward, Discard an item of your choice (TOKEN ITEMS NOT INCLUDED)>
+
+IF NO
+You walk away, basking in the beautiful melody. - <Gain 1 Token, Move 4 Steps Forward>
+
+------------------------------------------------
+
+IS IT GOD?
+
+A snow globe rolls underneath your feet. Its contents are a mystery since you can't see through the muck captured inside the ball. 
+Do you crack it open?
+
+IF YES
+As you crack the sphere open, an emptiness envelopes you. You find yourself among the stars, in the uncaring grasp of the void. A god sits in front of you, uncaring and unmoving. You feel a sudden rush of pain as information starts pouring into your brain. - <Gain 1 Token, Gain 10 Mana>
+
+IF NO
+You leave the snow globe. Nothing happens. - <Gain 5 Mana, Move 2 Steps Forward>
+
+------------------------------------------------
+
+BAMBOO HAT
+
+A whistle envelopes you, leading you to a pristine temple clad in gold. In front sits a monk, playing a flute. As you approach, he raises his gaze and says: “I yield my flesh…”
+Do you finish his poem?
+
+IF YES
+“To claim their bones” you recite. The monk nods slowly and the illusion breaks. In the monk’s place, you find a skeleton. The temple, now dilapidated, is harbor only for spirits. - <Gain 1 Token, Gain +2 MOD, Gain 1x Double Dice (One Time Item)>
+
+IF NO
+You leave the monk’s eerie chant, losing him in the mist. You can feel your sanity dwindle. - <Move 2 Steps Forward, Lose 5 Mana, Gain 1x Rigged Die>
+
+------------------------------------------------
+
+BATTLE EVENTS:
+
+FOREST
+
+1. As you enter the thicket, you spot an Inquisitor of the Dawnborn sharpening her axe, her eyes burning. She is covered in blood, the body of a Fleetfoot lies beneath her feet. She shoots you a glance. Her comrade, a timid-looking soldier, stares into the distance. The Inquisitor rises, asking you to state your allegiance.
+Lie?
+
+IF YES - “As Dawn burns, so do we!” you exclaim proudly. The Inquisitor nods and lets you pass
+
+IF NO - The Inquisitor slowly nods to her comrade. He envelops you in a flurry of attacks, each one more lethal than the last. Somehow, you manage to slay him. The soldier falls, blood protruding from the gaping wound.
+
+------------------------------------------------
+
+2. You stumble upon a village ablaze, cottages and grass burning. The road is paved with bodies, blood oozing into small puddles. Sounds of footsteps draw near and, as you raise your gaze, you see an Inquisitor of the Dawnborn leaving the burning wreckage. His gaze makes you shudder, aflame with madness. “Fleeting little things,” she says, cackling “You’ll burn all the same.”
+Do you fight?
+
+IF YES - After a fierce battle, you manage to strike down the Inquisitor. Her mangled body lies in the mud. Still, she laughs and laughs: “The Dawn is coming! The Dawn is coming!” - the horrid laughter will keep you awake at nights
+
+IF NO - You flee at the mere sight of her, dashing for the hills and into safety.
+
+------------------------------------------------
+
+3. Before the Gates, the silhouette of a soldier rests but he doesn’t seem to be your kind, of Those of Tied Fate. His form is corrupt, his left arm replaced with a blazing wing. In his right, a sword sways, spraying flame onto the ground. He raises his gaze, tired and broken: “The Dawn… The Dawn has arrived” he whispers solemnly. He seems to be begging for death.
+Fight?
+
+IF YES - You pierce the soldier with all your might and, as he falls, he simply whispers: “Thank you!”
+
+IF NO - You can hear the maddening cries as you run. The soldier has turned into a winged beast, the flap of his wings an ode to fury.
+
+------------------------------------------------
+
+SWAMP OF PURITY
+
+1. As you step into the bog, you notice a pair of gleaming eyes seizing you. A kelpie rests just below the water, waiting to pull you into its murky depths.
+Fight?
+
+IF YES - You act faster than the kelpie, severing the head of the wretched beast before it drags you under.
+
+IF NO - You sprint away, barely evading the kelpie and escaping with your life. Seeing you leave, the beast returns to the murky depths.
+
+------------------------------------------------
+
+2. A Strong stench creeps up on you - the vapor so unsettling it darkens your vision. The source of the odor fades into view. A shadowy figure rests atop a mountain of corpses, seemingly feasting on them. You raise your sword as it throws a half-eaten remains of someone’s arm.
+Do you fight?
+
+IF YES - No matter how you strike, you cannot seem to pierce the hide of the beast, seemingly composed of the void itself. You flee from the futile struggle, living to fight another day.
+
+IF NO - Carefully, you circle the beast. It loses interest in you as soon as it notices you pose no threat to its meal
+
+------------------------------------------------
+
+3. A shiny white pearl floats in the murky waters, glistening underneath the choked Sun.
+Reach for it?
+
+IF YES - A monstrous clam rises from the water, the pearl as a simple lure for foolish souls. Prepare to fight.
+
+IF NO - You gaze at the pearl longingly as you take your leave.
+Fight?
+
+IF YES - You bludgen the shell into mush, claiming your prize. Oh, how the pearl shines!
+
+IF NO - You escape with your life.
+
+------------------------------------------------
+
+VALLEY OF SACRIFICE
+
+1. The thorns seem hellbent on preventing your path, coiling around you, wanting to choke the very light from your eyes. You could try to find another way, but it may take longer…
+Do you cut the thorns?
+
+IF YES - You’re unsure where the pain ends. As you cut, the thorn cuts you. Soon, you are shivering from blood loss and the thorns wither away.
+
+IF NO - You circle the maze, evading the song of needles.
+
+------------------------------------------------
+
+2. A stone figure rests atop an altar of thorns. As you pass next to it, it turns its head, the stone cracking, revealing a pulsating, fleshy interior. It grins, hungry for elven flesh.
+Fight?
+
+IF YES - You cut down the apparition, breaking down its form until only guts and gore remained.
+
+IF NO - You slowly back away, taking another route to avoid the being.
+
+------------------------------------------------
+
+3. Soldiers made of thorns guard the gates, locking their arms to prevent passage. No matter what you say, they don’t move or flinch. It seems there is no way but to cut through.
+Fight?
+
+IF YES - The armada is slain, the path clear. Only the rustle of thorn armor remains.
+
+IF NO - You slowly leave and as you do, the armada of thorns lower their weapons.
+
+------------------------------------------------
+
+HOOK CEMETERY
+
+1. A ghost emerges from the mist, its empty eyes staring deep into your soul. It seems to want your warmth, your skin, your flesh…
+Fight?
+
+IF YES - You exorcise the abnormality, finally granting it rest.
+
+IF NO - Your hairs stand on end as the ghost shrieks, begging for you to grant it life or, at least, spare it the misery.
+
+------------------------------------------------
+
+2. A headless horseless rider staggers, swinging his axe wildly. It screams: “My horse! My head! My horse! My head!” his wild flourishes block your path.
+Fight? 
+
+IF YES - You slay the being, his words still echoing in your head.
+
+IF NO - As you leave, you start uttering his chant underneath your breath: “My horse! My head!”
